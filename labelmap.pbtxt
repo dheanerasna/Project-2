@@ -1,0 +1,120 @@
+item {
+  id: 1
+  name: '51'
+}
+
+item {
+  id: 2
+  name: 'ayam'
+}
+
+item {
+  id: 3
+  name: 'Bakso kuah'
+}
+
+item {
+  id: 4
+  name: 'BasilNod'
+}
+
+item {
+  id: 5
+  name: 'bawang'
+}
+
+item {
+  id: 6
+  name: 'bombay'
+}
+
+item {
+  id: 7
+  name: 'brokoli'
+}
+
+item {
+  id: 8
+  name: 'cabai'
+}
+
+item {
+  id: 9
+  name: 'cabbage'
+}
+
+item {
+  id: 10
+  name: 'chicken'
+}
+
+item {
+  id: 11
+  name: 'coconut-sugar'
+}
+
+item {
+  id: 12
+  name: 'corn'
+}
+
+item {
+  id: 13
+  name: 'Egg'
+}
+
+item {
+  id: 14
+  name: 'gurame'
+}
+
+item {
+  id: 15
+  name: 'kacang_panjang'
+}
+
+item {
+  id: 16
+  name: 'Lettuce'
+}
+
+item {
+  id: 17
+  name: 'oil'
+}
+
+item {
+  id: 18
+  name: 'potato'
+}
+
+item {
+  id: 19
+  name: 'Pumpkin'
+}
+
+item {
+  id: 20
+  name: '-'
+}
+
+item {
+  id: 21
+  name: 'Shrimp'
+}
+
+item {
+  id: 22
+  name: 'Spaghetti'
+}
+
+item {
+  id: 23
+  name: 'tomat'
+}
+
+item {
+  id: 24
+  name: 'tomato'
+}
+
